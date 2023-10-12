@@ -1,4 +1,9 @@
 # pbo-post-test-2
+Nama : Muhammad Fandi Perdana
+NIM : 2209116094
+
+
+
 
 1. Ini adalah penjelasan kode Java yang mendefinisikan kelas Phone dalam paket project.HP. Kelas ini mewakili ponsel dengan properti seperti nama, merek, dan harga. Juga, kelas ini menyediakan metode untuk mengakses dan memodifikasi properti-properti ini.
 
