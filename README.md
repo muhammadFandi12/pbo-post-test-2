@@ -67,17 +67,35 @@ Di bawah ini adalah penanganan untuk masing-masing pilihan:
 
 
 A. ![image](https://github.com/muhammadFandi12/pbo-post-test-2/assets/127529693/396abc29-f349-4825-95d9-93eccc6c93e7)
+  ini adalah hasil dari penambahan hp
+
+
+
 
 B.![image](https://github.com/muhammadFandi12/pbo-post-test-2/assets/127529693/53811025-5156-4442-bd60-32312eadf622)
+ini adalah hasil dari lihat daftar hp
+
+
+
 
 C.![image](https://github.com/muhammadFandi12/pbo-post-test-2/assets/127529693/47d826c3-9278-42e3-8b71-4cb28a7f5ce6)
+ini adalah hasil dari cari daftar hp
+
+
 
 D.![image](https://github.com/muhammadFandi12/pbo-post-test-2/assets/127529693/d85bd0a2-d1ae-4d19-808c-dcd6faef5282)
+ini adalah hasil dari update daftar hp
+
+
 
 E.![image](https://github.com/muhammadFandi12/pbo-post-test-2/assets/127529693/dbfb18fa-6b8b-4aca-b6ee-b6c078733a98)
+ini adalah hasil dari hapus daftar hp
+
+
+
 
 F. ![image](https://github.com/muhammadFandi12/pbo-post-test-2/assets/127529693/84145087-6efa-4cf9-bf90-21b02c73331d)
-
+ini adalah hasil dari keluar program
 
 
 
